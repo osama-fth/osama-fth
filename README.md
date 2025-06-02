@@ -14,12 +14,6 @@
 
 - **Laurea in Informatica** - Università del Piemonte Orientale(in corso)
 
-### Interessi
-- Sviluppo software
-- Programmazione web
-- Sicurezza Informatica
-- Nuove tecnologie
-
 ---
 
 *Questo profilo è in costruzione mentre continuo il mio percorso di studi*
