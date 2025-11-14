@@ -20,6 +20,8 @@
 
 * **C**, **Java**, **Python**, **JavaScript**, **HTML**, **CSS**, **SQL**, **Docker**
 
+![Linguaggi più utilizzati](https://github-readme-stats.vercel.app/api/top-langs/?username=osama-fth&layout=compact&theme=radical)
+
 ---
 
 *Questo profilo è in costruzione mentre continuo il mio percorso di studi e crescita professionale.*
