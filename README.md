@@ -1,25 +1,29 @@
 # 👨‍💻 Osama Foutih
 
 ![Student Badge](https://img.shields.io/badge/Student-UPO-blue)
-![Computer Science](https://img.shields.io/badge/Computer%20Science-Enthusiast-orange)
+![DevSecOps](https://img.shields.io/badge/Focus-DevSecOps-orange)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-## 👋 Ciao, sono Osama!
+## 👋 Ciao, sono Osama
 
-### Chi sono
+Studente di Informatica all'**UPO**, in fase di specializzazione verso **DevSecOps**: pipeline automatizzate, sicurezza applicativa, container e networking.
 
-* 🎓 Studente di Informatica all'**UPO (Università del Piemonte Orientale)**
-* 💻 Appassionato di tecnologia e del mondo dell’informatica in generale
-* 🔐 Interessato in particolare a **sicurezza informatica**, **DevOps** e **automazione**
-* ⚙️ Curioso verso nuovi strumenti, linguaggi e metodologie di sviluppo
+### 🚀 Progetti in evidenza
 
-### 🎓 Formazione
+- 🔧 [**Simple CI/CD**](https://github.com/osama-fth/Simple-CI-CD) — Pipeline DevSecOps con scansione vulnerabilità (Trivy), test containerizzati, orchestrata con GitHub Actions
+- 🌐 [**Go Port Scanner**](https://github.com/osama-fth/PortScanner) — Scanner di rete concorrente in Go
+- ⚖️ [**LoadBalancer**](https://github.com/osama-fth/LoadBalancer) — Load balancing con rate limiting su architettura containerizzata (Nginx, Docker, Flask)
+- 🔐 [**CrypTool**](https://github.com/osama-fth/cryptool) — Laboratorio didattico su algoritmi crittografici in ambiente isolato
 
-* **Laurea in Informatica** – Università del Piemonte Orientale *(in corso)*
+### 🛠️ Stack
 
-### 💡 Linguaggi e tecnologie
+**Linguaggi:** Python · Go · JavaScript · PHP · C · Java · SQL
+**DevOps/Security:** Docker · GitHub Actions · CI/CD · Linux · Git · Networking
 
-* **C**, **Java**, **Python**, **JavaScript**, **HTML**, **CSS**, **SQL**, **Docker**
+### 📫 Contatti
+
+[LinkedIn](https://linkedin.com/in/osama-foutih) · [Portfolio](https://osama-fth.github.io/Portfolio)
 
 ---
-
-*Questo profilo è in costruzione mentre continuo il mio percorso di studi e crescita professionale.*
+*Profilo in continua crescita mentre approfondisco il mondo DevSecOps.*
